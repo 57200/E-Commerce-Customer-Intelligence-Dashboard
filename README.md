@@ -92,18 +92,6 @@ E-Commerce-Customer-Intelligence-Dashboard
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
-
 ## 📦 Dataset
 
 Brazilian E-Commerce Public Dataset by Olist
@@ -146,35 +134,8 @@ pip install -r requirements.txt
 
 B.Tech (Computer Science & Data Science)
 
-```
-
----
-
-# ⭐ Rating
-
-Is README ko main **9.8/10** dunga.
-
-Reasons:
-
-- Recruiter-friendly
-- ATS-friendly
-- Professional formatting
-- Proper GitHub structure
-- Clean headings
-- Business-oriented language
-
----
-
-## Agla Step
-
-Ab hum **GitHub repository professionally banayenge**:
-
-- Folder structure
-- Dashboard screenshot
-- `requirements.txt`
-- `.gitignore`
-- Repository description
-- Topics
+ 
+ 
 - Upload commands
 
 Uske baad last me **resume project section** update karenge.
