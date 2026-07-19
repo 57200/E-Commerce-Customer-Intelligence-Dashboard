@@ -91,7 +91,7 @@ E-Commerce-Customer-Intelligence-Dashboard
 - Most customers provide 5-star ratings, indicating high customer satisfaction.
 
 ---
-
+ 
 ## 📦 Dataset
 
 Brazilian E-Commerce Public Dataset by Olist
@@ -134,5 +134,3 @@ pip install -r requirements.txt
 
 B.Tech (Computer Science & Data Science)
 
-
-Uske baad last me **resume project section** update karenge.
