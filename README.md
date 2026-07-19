@@ -134,8 +134,5 @@ pip install -r requirements.txt
 
 B.Tech (Computer Science & Data Science)
 
- 
- 
-- Upload commands
 
 Uske baad last me **resume project section** update karenge.
